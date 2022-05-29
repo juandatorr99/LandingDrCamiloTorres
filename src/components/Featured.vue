@@ -46,7 +46,7 @@ const features = [
   {
     name: 'Terapía Neural',
     description:
-      'Técnica creada en Alemania por los doctores Walter y Ferdinand Huneke que consiste en la aplicación de pequeñas dosis de Procaina (sustancia bipolar, repolarizadora de la membrana basal de las células) para que los impulsos energéticos que viajan a través de los diferentes tejidos y órganos del cuerpo lleven la información adecuada, y no sean bloqueados por cicatrices, granulomas en odontones, etc.',
+      'Técnica creada en Alemania por los doctores Walter y Ferdinand Huneke que consiste en la aplicación de pequeñas dosis de Procaina (sustancia bipolar, repolarizadora de la membrana basal de las células) para que los impulsos energéticos que viajan a través de los diferentes tejidos y órganos del cuerpo lleven la información adecuada, y no sean bloqueados por cicatrices, granulomas en odontones, fracturas, entre otros.',
     icon: faSyringe,
   },
   {
@@ -70,7 +70,7 @@ const features = [
   {
     name: 'Sueros Ortomoleculares',
     description:
-      'Esta disciplina tiene como objetivo prevenir y tratar las enfermedades ayudando al organismo a mantener el equilibrio bioquímico y metabólico de los micronutrientes (vitaminas, minerales, aminoácidos, oligoelementos, antioxidantes, etc.)',
+      'Esta disciplina tiene como objetivo prevenir y tratar las enfermedades ayudando al organismo a mantener el equilibrio bioquímico y metabólico de los micronutrientes (vitaminas, minerales, aminoácidos, oligoelementos, antioxidantes, entre otros.)',
     icon: faSyringe,
   },
   {
@@ -82,19 +82,19 @@ const features = [
   {
     name: 'Fitoterapia',
     description:
-      ' ',
+      'Es una terapia de medicina alternativa, que tiene la posibilidad de curar o aliviar síntomas o enfermedades con plantas medicinales, las plantas usadas en la fitoterapia con principios activos conocidos y medidos, son efectivas para tratar algunas enfermedades.',
     icon: faStethoscope,
   },
   {
-    name: 'Vitamina C Intravenosa',
+    name: 'Vitamina C Endovenosa',
     description:
-      ' ',
+      'Las dosis endovenosa de vitamina C tiene numerosos efectos en distintas actividades biológicas, quizá más amplios que cualquier otro nutriente. La dosis endovenosa de vitamina C alcanza niveles en sangre mucho más elevados que las dosis orales, Estimula la inmunidad y aumenta las defensas del organismo, reduce el daño oxidativo (tiene efecto antioxidante), mantiene integridad de encías, dientes, huesos, vasos sanguíneos, desintoxica el hígado, entre otros.',
     icon: faShieldVirus,
   },
   {
     name: 'Sueros de Quelación',
     description:
-      ' ',
+      'La terapia de quelación se ha utilizado durante mucho tiempo como tratamiento para la intoxicación por mercurio y plomo, sin embargo estudios realizados en EEUU demostraron efectos de limpieza vascular sobre todo a nivel periférico y en menor medida a nivel coronario. Es importante resaltar que no sirve para disminuir los niveles de colesterol o triglicéridos en la sangre, para ello se utilizan otras estrategias.',
     icon: faBookMedical,
   },
 ]
