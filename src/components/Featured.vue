@@ -4,7 +4,7 @@
       <div class="lg:text-center">
         <h2 class="text-base text-dr-blue font-semibold tracking-wide uppercase">Especialidades</h2>
         <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Especialidades del Dr. Camilo Torres</p>
-        <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">Conoce las especialidades del Dr. Camilo y <a class="underline" href="http://tel:6025510894">llamanos</a> si tienes cualquier duda</p>
+        <p class="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">Conoce las especialidades del Dr. Camilo y <a class="underline" href="http://tel:3155749037">llamanos</a> si tienes cualquier duda</p>
         <span><i class="fas fa-syringe  fa-stack-1x fa-inverse"></i></span>      
       </div>
 

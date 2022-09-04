@@ -64,7 +64,7 @@
             <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">Comunícate con nosotros para agendar tu cita</p>
             <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <div class="rounded-md shadow">
-                <a href="tel:6025510894" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-dr-blue hover:bg-dr-blue-2 md:py-4 md:text-lg md:px-10"> Teléfono </a>
+                <a href="tel:3155749037" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-dr-blue hover:bg-dr-blue-2 md:py-4 md:text-lg md:px-10"> Teléfono </a>
               </div>
               <div class="mt-3 sm:mt-0 sm:ml-3">
                 <a href="https://wa.link/gah8ls" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-dr-blue-2 bg-indigo-100 hover:bg-indigo-200 md:py-4 md:text-lg md:px-10"> WhatsApp </a>

@@ -7,7 +7,7 @@
       </h2>
       <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
         <div class="inline-flex rounded-md shadow">
-          <a href="tel:6025510894" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-dr-blue hover:bg-dr-blue-2"> Telefono </a>
+          <a href="tel:3155749037" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-dr-blue hover:bg-dr-blue-2"> Telefono </a>
         </div>
         <div class="ml-3 inline-flex rounded-md shadow">
           <a href="https://wa.link/gah8ls" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-dr-blue bg-white hover:bg-indigo-50"> WhatsApp </a>
